@@ -1,0 +1,6 @@
+﻿  A1Q3.cpp
+C:\Users\Ahsan\source\repos\A1Q3\A1Q3.cpp(32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ahsan\source\repos\A1Q3\A1Q3.cpp(40): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Ahsan\source\repos\A1Q3\A1Q3.cpp(63): error C2059: syntax error: '='
+C:\Users\Ahsan\source\repos\A1Q3\A1Q3.cpp(64): error C2143: syntax error: missing ';' before '}'
+C:\Users\Ahsan\source\repos\A1Q3\A1Q3.cpp(64): error C2238: unexpected token(s) preceding ';'
